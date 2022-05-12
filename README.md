@@ -1,4 +1,4 @@
-# autonomous-vehicles Notes & Resources
+# Autonomous Vehicles Notes & Resources
 
 As we already know that the connected vehicle platforms, autonomous vehicle technologies are evolving and improving in terms of interoperability, flexibility and reliability. DDS has been gaining traction for that purpose, and The major reason behind that is that there are now multiple applications running on different computing platforms instead of multiple distributed ECUs (electronic control units). Just to give an example, before that approach actually developers had to build their software right embedded into ECUs because there was no need for an update for those software. However now we need an extendable way of data flow and communication protocol. And the standard single databus is a solution for that which simplifies the system for that purpose. With this approach in other words, When the needs evolve, that architecture can expand to respond the change and fulfill the future requirements without replacing or manipulating the core standards, so that decrease fragility and increase adaptability.
 
